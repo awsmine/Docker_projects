@@ -1,4 +1,4 @@
-# ---  Docker_projects/Docker_Nginx_Image_ECR/Dockefile ---
+# ---  Docker_projects/Docker_Nginx_Image_ECR/Dockerfile ---
 
 
 FROM nginx
