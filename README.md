@@ -12,3 +12,6 @@ A repository of all my Docker projects
 
 5. Create Fargate Cluster and a Service which access Docker image with Nginx https://dev.to/aws-builders/create-fargate-cluster-and-a-service-which-access-docker-image-with-nginx-gno
 
+6. 3-part series on creating a Docker Nginx image on an EC2 instance using Amazon ECS, ECR and Application Load Balancer https://dev.to/aws-builders/3-part-series-on-creating-a-docker-nginx-image-on-an-ec2-instance-using-amazon-ecs-ecr-and-application-load-balancer-2bn2
+
+
