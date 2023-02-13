@@ -14,4 +14,8 @@ A repository of all my Docker projects
 
 6. 3-part series on creating a Docker Nginx image on an EC2 instance using Amazon ECS, ECR and Application Load Balancer https://dev.to/aws-builders/3-part-series-on-creating-a-docker-nginx-image-on-an-ec2-instance-using-amazon-ecs-ecr-and-application-load-balancer-2bn2
 
+7. 6-part series - (1) Deploy a Custom Docker Image with Centos on an Apache web server and Save it to AWS ECR Repository https://dev.to/aws-builders/6-part-series-1-deploy-a-custom-docker-image-with-centos-on-an-apache-web-server-and-save-it-to-aws-ecr-repository-186
+
+8. 
+
 
