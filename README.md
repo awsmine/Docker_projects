@@ -16,6 +16,8 @@ A repository of all my Docker projects
 
 7. 6-part series - (1) Deploy a Custom Docker Image with Centos on an Apache web server and Save it to AWS ECR Repository https://dev.to/aws-builders/6-part-series-1-deploy-a-custom-docker-image-with-centos-on-an-apache-web-server-and-save-it-to-aws-ecr-repository-186
 
-8. 
+8. 6-part series - (2) Create Task Definition in ECS and Application Load balancer for the Task to be run on Fargate Cluster https://dev.to/aws-builders/6-part-series-2-create-task-definition-in-ecs-and-application-load-balancer-for-the-task-to-be-run-on-fargate-cluster-1ohm
+
+9. 
 
 
