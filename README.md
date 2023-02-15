@@ -18,6 +18,6 @@ A repository of all my Docker projects
 
 8. 6-part series - (2) Create Task Definition in ECS and Application Load balancer for the Task to be run on Fargate Cluster https://dev.to/aws-builders/6-part-series-2-create-task-definition-in-ecs-and-application-load-balancer-for-the-task-to-be-run-on-fargate-cluster-1ohm
 
-9. 
+9. 6-part series - (3) Create Fargate Cluster, and a Service which can access customized Docker image ===> https://dev.to/aws-builders/6-part-series-3-create-fargate-cluster-and-a-service-which-can-access-customized-docker-image-1dl7
 
 
