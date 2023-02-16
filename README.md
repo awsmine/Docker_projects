@@ -20,4 +20,6 @@ A repository of all my Docker projects
 
 9. 6-part series - (3) Create Fargate Cluster, and a Service which can access customized Docker image ===> https://dev.to/aws-builders/6-part-series-3-create-fargate-cluster-and-a-service-which-can-access-customized-docker-image-1dl7
 
+10. 6-part series - (4) Create, clone a CodeCommit Repo, move-push the Dockerfile and index.html to remote repository master branch - https://dev.to/aws-builders/6-part-series-4-create-clone-a-codecommit-repo-move-push-the-dockerfile-and-indexhtml-to-remote-repository-master-branch-37ng
+
 
