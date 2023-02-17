@@ -22,4 +22,6 @@ A repository of all my Docker projects
 
 10. 6-part series - (4) Create, clone a CodeCommit Repo, move-push the Dockerfile and index.html to remote repository master branch - https://dev.to/aws-builders/6-part-series-4-create-clone-a-codecommit-repo-move-push-the-dockerfile-and-indexhtml-to-remote-repository-master-branch-37ng
 
+11. 6-part series - (5) Create a CodeBuild Project, upload the code and push it to the master repository https://dev.to/aws-builders/6-part-series-5-create-a-codebuild-project-upload-the-code-and-push-it-to-the-master-repository-p7i
+
 
