@@ -24,4 +24,7 @@ A repository of all my Docker projects
 
 11. 6-part series - (5) Create a CodeBuild Project, upload the code and push it to the master repository https://dev.to/aws-builders/6-part-series-5-create-a-codebuild-project-upload-the-code-and-push-it-to-the-master-repository-p7i
 
+12. 6-part series - (6) Create a CodePipeline to see the changes that you made to the index.html file auto-populated https://dev.to/aws-builders/6-part-series-6-create-a-codepipeline-to-see-the-changes-that-you-made-to-the-indexhtml-file-auto-populated-16jg
+
+
 
