@@ -26,5 +26,6 @@ A repository of all my Docker projects
 
 12. 6-part series - (6) Create a CodePipeline to see the changes that you made to the index.html file auto-populated https://dev.to/aws-builders/6-part-series-6-create-a-codepipeline-to-see-the-changes-that-you-made-to-the-indexhtml-file-auto-populated-16jg
 
+13. 6-part series on configuring a CI/CD pipeline using Customized Docker image on an Apache Web Server & Application Load Balancer https://dev.to/aws-builders/6-part-series-on-configuring-a-cicd-pipeline-using-customized-docker-image-on-an-apache-web-server-application-load-balancer-34ao
 
 
