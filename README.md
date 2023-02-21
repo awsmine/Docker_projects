@@ -28,4 +28,6 @@ A repository of all my Docker projects
 
 13. 6-part series on configuring a CI/CD pipeline using Customized Docker image on an Apache Web Server & Application Load Balancer https://dev.to/aws-builders/6-part-series-on-configuring-a-cicd-pipeline-using-customized-docker-image-on-an-apache-web-server-application-load-balancer-34ao
 
+14. 3-part series - (1) Launch an EC2 Instance, Install CodeDeploy Agent and upload App_Linux.zip file to version enabled S3 bucket https://dev.to/awsmine/3-part-series-1-launch-an-ec2-instance-install-codedeploy-agent-and-upload-applinuxzip-file-to-version-enabled-s3-bucket-dhp
+
 
