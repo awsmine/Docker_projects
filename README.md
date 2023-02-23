@@ -30,4 +30,6 @@ A repository of all my Docker projects
 
 14. 3-part series - (1) Launch an EC2 Instance, Install CodeDeploy Agent and upload App_Linux.zip file to version enabled S3 bucket https://dev.to/awsmine/3-part-series-1-launch-an-ec2-instance-install-codedeploy-agent-and-upload-applinuxzip-file-to-version-enabled-s3-bucket-dhp
 
+15. 3 part series - (2) Create a CodeDeploy application and Deployment group https://dev.to/aws-builders/3-part-series-2-create-a-codedeploy-application-and-deployment-group-47gk
+
 
