@@ -32,4 +32,7 @@ A repository of all my Docker projects
 
 15. 3 part series - (2) Create a CodeDeploy application and Deployment group https://dev.to/aws-builders/3-part-series-2-create-a-codedeploy-application-and-deployment-group-47gk
 
+16. 3-part series - (3) Create a CodePipeline pipeline and deploy the application on the instance https://dev.to/aws-builders/3-part-series-3-create-a-codepipeline-pipeline-and-deploy-the-application-on-the-instance-3f2j-temp-slug-5846245?preview=6392e8a04485a0fcfcb43720bb339b4d8399586bcf8ad369a863b199a7722cc96807e64b8fcb928b01057fb1f7755e10b494ac027bc76065973f1e94
+
+
 
