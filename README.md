@@ -34,5 +34,7 @@ A repository of all my Docker projects
 
 16. 3-part series - (3) Create a CodePipeline pipeline and deploy the application on the instance https://dev.to/aws-builders/3-part-series-3-create-a-codepipeline-pipeline-and-deploy-the-application-on-the-instance-1bbc
 
+17. Implementing a healthcheck for a Docker Container https://dev.to/aws-builders/implementing-a-healthcheck-for-a-docker-container-4m9h
+
 
 
