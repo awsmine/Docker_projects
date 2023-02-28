@@ -36,5 +36,7 @@ A repository of all my Docker projects
 
 17. Implementing a healthcheck for a Docker Container https://dev.to/aws-builders/implementing-a-healthcheck-for-a-docker-container-4m9h
 
+18. 3-part series on Create and Deploy applications using CodeDeploy and CodePipeline with Amazon S3 bucket versioning enabled https://dev.to/aws-builders/3-part-series-on-create-and-deploy-applications-using-codedeploy-and-codepipeline-with-amazon-s3-bucket-versioning-enabled-j49
+
 
 
